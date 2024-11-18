@@ -1,12 +1,12 @@
 # Formal_Methods_ML_Project-CS781-
 CS781-Formal Methods ML Project - Safe Reinforcement Learning
 
-# Team Name
+Team Name
 
-# How to change inputs
+How to change inputs
 
-# Files to run
+Files to run
 
-# How to run codes
+How to run codes
 
-# Result Interopretation
+Result Interopretation
