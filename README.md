@@ -1,6 +1,6 @@
 # CS781-Formal Methods ML Project - Safe Reinforcement Learning
 
-Team Name
+Team Name: Tipu Sultan
 
 How to change inputs
 
