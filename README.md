@@ -1,4 +1,5 @@
-# Formal_Methods_ML_Project-CS781-
+#CS781_Formal_Methods_ML_Project-
+
 CS781-Formal Methods ML Project - Safe Reinforcement Learning
 
 Team Name
